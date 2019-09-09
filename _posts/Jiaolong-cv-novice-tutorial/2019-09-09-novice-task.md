@@ -1,6 +1,6 @@
 ---
 title: 交龙视觉部新手任务
-tags: RM2019
+tags: opencv 寻迹
 categories: Jiaolong-cv-novice-tutorial
 ---
 
