@@ -8,10 +8,9 @@ categories: Jiaolong-cv-novice-tutorial
 
 ## Getting Started
 
-[一、开发环境配置](environment-setup)
+[一、开发环境配置](../environment-setup)
 
-[二、从代码入手，2019赛季代码详解](RM2019-code-annotate)
-
+[二、从代码入手，2019赛季代码详解](../RM2019-code-annotate)
 
 ---
 
