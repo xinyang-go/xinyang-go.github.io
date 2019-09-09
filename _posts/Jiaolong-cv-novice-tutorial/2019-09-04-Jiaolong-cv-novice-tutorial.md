@@ -12,6 +12,8 @@ categories: Jiaolong-cv-novice-tutorial
 
 [二、从代码入手，2019赛季代码详解](../RM2019-code-annotate)
 
+[三、新手任务](../novice-task)
+
 ---
 
 本内容不定期更新。
