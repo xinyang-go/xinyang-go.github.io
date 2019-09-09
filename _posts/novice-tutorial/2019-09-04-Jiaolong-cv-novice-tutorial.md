@@ -1,5 +1,5 @@
 ---
-title: 上海交通大学-RoboMaster-交龙战队视觉教程
+title: 上海交通大学RoboMaster交龙战队视觉教程
 tags: RM2019 opencv
 categories: Jiaolong-cv-novice-tutorial
 ---
