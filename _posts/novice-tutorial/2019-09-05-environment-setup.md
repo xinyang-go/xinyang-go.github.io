@@ -1,7 +1,7 @@
 ---
 title: 开发环境配置
 tags: ubuntu opencv ide
-categories: novice-tutorial
+categories: Jiaolong-cv-novice-tutorial
 ---
 
 * TOC

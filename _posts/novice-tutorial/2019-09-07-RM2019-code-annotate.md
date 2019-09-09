@@ -1,7 +1,7 @@
 ---
 title: 交龙2019赛季步兵视觉代码详解
 tags: RM2019
-categories: novice-tutorial
+categories: Jiaolong-cv-novice-tutorial
 ---
 
 * TOC
