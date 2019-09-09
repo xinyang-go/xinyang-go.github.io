@@ -1,0 +1,42 @@
+permalink: /:categories/:title/
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input:  GFM
+  syntax_highlighter: rouge
+
+
+paginate: 10
+paginate_path: "page/:num"
+baseurl: ""
+
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      styles : [highlight.css,gitment.css,post.css]
+      scripts : [gitment.js, post.js]
+
+
+
+title: "xinyang"
+email: txy15436@gmail.com
+description: ""
+github:
+  username: xinyang-go
+#swiftype:
+#  searchId: iXZyPokVfxFaBTvi64Y6
+gitment:
+    repo: xinyang-go.github.io
+    client_id: 1fb98bbdadf46841b4c6
+    client_secret: e031b9b725e7ebbd95b9741928a2efc002fd6847
+
+url: "https://xinyang-go.github.io"
+
+
